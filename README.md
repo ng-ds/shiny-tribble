@@ -9,10 +9,10 @@ We are required to reduce the time that cars spend on the test bench. We will wo
 
 The Steps that we will follow
 
-Data Import
-Data Cleaning
-Data Preprocessing- Null and unique values
-setup of  Pycaret package
-model training
-model evaluation
-prediction
+Data Import,
+Data Cleaning,
+Data Preprocessing- Null and unique values,
+setup of  Pycaret package,
+model training,
+model evaluation,
+prediction.
